@@ -28,7 +28,7 @@ download the VOC2012 dataset from internet or generate your own dataset path as 
 
 ## Test Demo
 
-User can directly open ECE285projectTestDemo.ipynb to see the current result. However, the weights is not including in this file because it is a little bit big. The weight file's name is 'yolov3_cp_87.pth'. One should download and upload the weight file to the current folder path which is the 'ece285RYHZ' folder. During testing process, one should wait about 10 minutes to wait for the dataloader to load all the test datafile. User can terminate after some time if you don't want to wait all the datasets are loading. After that, user can change the number of 'plot' number to see different dection results from the already loaded dataset. The download link is showing as following.
+User can directly open ECE285projectTestDemo.ipynb to see the current result. However, the weights is not including in this file because it is a little bit big. The weight file's name is 'yolov3_cp_87.pth'. One should download and upload the weight file to the current folder path which is the 'ece285RYHZ' folder. During testing process, one should wait about 10 minutes to wait for the dataloader to load all the test datafile. User can terminate after some time if you don't want to wait all the datasets are loading. After that, user can change the number of 'plot' number to see different dection results from the already loaded dataset. The weight file download link is showing as following.
 https://drive.google.com/file/d/1grTzYUMw5cDZxxS2ddqkDPj8Ex-LDFar/view?usp=sharing
 
     
