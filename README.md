@@ -16,7 +16,7 @@ A minimal PyTorch implementation of YOLOv3, with support for training, inference
     $ pip install torchvision
 
 ##### Download pretrained weights (Run this only if you want to train dataset.For test demo, user
-don't need to type these commends)
+don't need to type these following two commends)
 
     $ cd weights/
     $ bash download_weights.sh
